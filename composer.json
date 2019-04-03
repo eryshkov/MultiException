@@ -4,7 +4,8 @@
   "description": "Exceptions all in one",
   "autoload": {
     "psr-4": {
-      "MultiException\\": "src/"
+      "MultiException\\": "src/",
+      "eryshkov\\multiexception\\": ""
     }
   }
 }
