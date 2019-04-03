@@ -1,20 +1,10 @@
 #  MultiException
 
-<div align = "center">
-<img src="/screens/hw06.png" width="100%">  
-<br>
-</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-7.2-orange.svg" alt="PHP-7.2"/>
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
-
-## Информация для проверяющего
-* в задаче №2 выбрана и установлена библиотека swiftmailer/swiftmailer
-* дамп БД в папке `db_dump`
-* применена дополнительная настройка web-сервера nginx:
- <img src="/screens/nginx.png" width="50%">
 
 ## Main functionality
 * multi exception

@@ -1,10 +1,4 @@
 {
-  "name": "eryshkov/MultiException",
-  "version": "1.0.0",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/eryshkov/MultiException"
-    }
-  ]
+  "name": "eryshkov/multiexception",
+  "version": "1.0.0"
 }
