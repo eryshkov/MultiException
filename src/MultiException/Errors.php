@@ -1,6 +1,6 @@
 <?php
 
-namespace MultiException;
+namespace Eryshkov\MultiException;
 
 class Errors extends \Exception
 {
