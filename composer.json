@@ -1,5 +1,10 @@
 {
   "name": "eryshkov/multiexception",
   "type": "library",
-  "description": "Exceptions all in one"
+  "description": "Exceptions all in one",
+  "autoload": {
+    "psr-0": {
+      "MultiException": "src/"
+    }
+  }
 }
