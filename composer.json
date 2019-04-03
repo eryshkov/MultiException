@@ -1,4 +1,5 @@
 {
   "name": "eryshkov/multiexception",
-  "version": "1.0.0"
+  "type": "library",
+  "description": "Exceptions all in one"
 }
