@@ -4,7 +4,7 @@
   "description": "Exceptions all in one",
   "autoload": {
     "psr-4": {
-      "": "src/"
+      "MultiException\\": "src/MultiException/"
     }
   }
 }
