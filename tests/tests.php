@@ -1,5 +1,7 @@
 <?php
 
+require __DIR__ . '/../autoload.php';
+
 try {
     $exception = new MultiException\Errors();
     $exception->add(new Exception('first'));
