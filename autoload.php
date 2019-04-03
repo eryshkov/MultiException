@@ -14,6 +14,7 @@
 spl_autoload_register(function ($class) {
     
     // project-specific namespace prefix
+    // for example $prefix = 'Foo\\Bar\\';
     $prefix = '';
     
     // base directory for the namespace prefix
